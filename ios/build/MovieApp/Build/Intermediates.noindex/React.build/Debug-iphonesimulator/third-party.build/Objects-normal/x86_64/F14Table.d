@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.cpp \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Bits.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Likely.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ScopeGuard.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/UncaughtExceptions.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Align.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Launder.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/SafeAssert.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Defaults.h \
+  /Users/mukeshkumar/Desktop/MovieApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14IntrinsicsAvailability.h

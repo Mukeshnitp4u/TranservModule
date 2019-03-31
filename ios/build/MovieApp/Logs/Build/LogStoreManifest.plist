@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>1F511C0C-6AB2-41DE-A170-E17DC3F0BF65</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1F511C0C-6AB2-41DE-A170-E17DC3F0BF65.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MovieApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MovieApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project MovieApp with scheme MovieApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>575664432.575562</real>
+			<key>timeStoppedRecording</key>
+			<real>575664452.84896898</real>
+			<key>title</key>
+			<string>Building project MovieApp with scheme MovieApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>1F511C0C-6AB2-41DE-A170-E17DC3F0BF65</string>
+		</dict>
+		<key>CF8BB610-451B-4516-9CBF-D5571D2B1441</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CF8BB610-451B-4516-9CBF-D5571D2B1441.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MovieApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MovieApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project MovieApp with scheme MovieApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>575661166.433864</real>
+			<key>timeStoppedRecording</key>
+			<real>575661178.77449405</real>
+			<key>title</key>
+			<string>Building project MovieApp with scheme MovieApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>CF8BB610-451B-4516-9CBF-D5571D2B1441</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
